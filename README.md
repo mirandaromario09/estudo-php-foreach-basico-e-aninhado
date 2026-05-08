@@ -1,17 +1,18 @@
 # Estudo de PHP - While e For
 
-Estudo completo sobre estruturas de repetição em PHP, abordando while e for com exemplos práticos.
+Exercício prático utilizando as estruturas de repetição while e for em PHP.
 
-## Lógica do estudo
+## Lógica do exercício
 
-- **While**: estrutura que repete um bloco enquanto a condição for verdadeira. Exemplos: contagem de 1 a 5, tabuada, soma acumulada, exibir números pares
-- **For**: estrutura de repetição com inicialização, condição e incremento nos parênteses. Exemplos: contagem, tabuada, soma acumulada, exibir números ímpares
-- **For com array**: percorrer arrays indexados usando `count()` e arrays multidimensionais para calcular média de alunos
-- **Diferença prática**: while é usado quando não se sabe quantas repetições (ex: sortear até sair número desejado), for é usado quando se sabe (ex: múltiplos de 3)
+- **Exercício 1 — Tabuada completa**: `for` para gerar tabuadas de 1 a 5, com `while` dentro para multiplicar de 1 a 10
+- **Exercício 2 — Pares e ímpares**: `for` percorrendo de 1 a 30 com `if` para classificar cada número
+- **Exercício 3 — Soma acumulada**: `while` somando números de 1 a 50 e exibindo o total
+- **Exercício 4 — Cardápio**: `for` percorrendo um array multidimensional com nome e preço dos produtos
+- **Exercício 5 — Sorteio**: `while` com `rand()` sorteando até sair o número 15, mostrando tentativas
 
 ## Arquivos
 
-- `index.php` — Código com exemplos práticos de while e for
+- `index.php` — Código com os 5 exercícios
 
 ---
 
