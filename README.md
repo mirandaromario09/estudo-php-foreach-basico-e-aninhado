@@ -16,4 +16,4 @@ Estudo sobre a estrutura foreach em PHP, abordando array indexado, associativo, 
 
 ---
 
-[Ver online](https://mirandaromario09.github.io/2-)
+[Ver online](https://mirandaromario09.github.io/estudo-php-foreach-basico-e-aninhado)
